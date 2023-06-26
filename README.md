@@ -1,6 +1,12 @@
 # Data Science Projects!
 
-Here you can find my first Data Science projects using data analysis, statistics, modeling and data visualization techniques in Python and its libraries to collect, prepare and explore data.
+The projects found in this repository are part of Alura's Data Science Training, an online technology school.
+
+This training addresses the Python programming language and the use of libraries such as Pandas, Numpy, Seaborn, Matplotlib, among other libraries for data analysis.
+
+The courses in this training are aimed at learning data analysis techniques, statistics, modeling and data visualization, scaling growth and bringing new business opportunities to companies.
+
+👨🏽‍💻 Learn more at [www.alura.com.br](https://www.alura.com.br)
 
 # Projects
 
