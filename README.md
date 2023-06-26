@@ -38,3 +38,22 @@ Learnings:
 <img src="https://github.com/bsmiranda/Data_Science/assets/66349657/f31045ae-6da4-4c38-9791-81815d044e8c" width="21%">
 <img src="https://github.com/bsmiranda/Data_Science/assets/66349657/92ca0436-7a2d-45b4-876f-9538a3c35667" width="21%">
 <img src="https://github.com/bsmiranda/Data_Science/assets/66349657/983a4c00-581c-49e5-a3c8-f17bbd39b6d5" width="32%">
+
+### Real State Data Analysis
+
+🙅🏽‍♂️ This project is in progress.
+
+We were hired as data scientists for a real estate company to analyze real estate data for the city of Rio de Janeiro, Brazil. Our main function is to support the demands of the Machine Learning team and the Development team of this company.
+
+Requirements and installation:
+
+- To access the data click [here](https://raw.githubusercontent.com/alura-cursos/pandas-conhecendo-a-biblioteca/main/base-de-dados/aluguel.csv)
+
+- Libraries used:
+```bash
+  import pandas as pd
+```
+Learnings:
+- Import the url data with pandas using `pd.read_csv`;
+- Check data characteristics with `pd.info()`;
+- Select DataFrame columns to check the data;
